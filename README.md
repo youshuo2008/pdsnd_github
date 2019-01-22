@@ -14,4 +14,5 @@ Files used in this project were provided by Motivate as three separate csv files
 chicago.csv, new_york_city.csv and washington.csv.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Special thanks to my Udacity teachers: Richard Kalehoff, Juno Lee, Karl Krueger, Josh Bernhard
+and mentors: Oscar Mauricio F, Tagne Nguifo E and Lasantha R!   
