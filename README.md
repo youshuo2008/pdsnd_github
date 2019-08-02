@@ -5,7 +5,9 @@ This project and README file were created on 01/21/2019.
 Explore US Bikeshare Data
 
 ### Project Description
-This project uses Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington.
+This project is part of my Udacity Nanodegree: Programing Programming for Data Science.
+
+I will use Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington.
 
 The code will generate an interactive experience in the terminal to present interesting descriptive statistics from the data of your choice.
 
